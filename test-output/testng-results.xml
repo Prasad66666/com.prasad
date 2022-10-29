@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T16:24:53 IST" name="Default suite" finished-at="2022-07-28T16:24:57 IST" duration-ms="3385">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T16:24:53 IST" name="Default test" finished-at="2022-07-28T16:24:57 IST" duration-ms="3385">
+      <class name="prasad.TestngPractise">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:prasad.TestngPractise@393671df]" started-at="2022-07-28T16:24:53 IST" name="Setup" finished-at="2022-07-28T16:24:56 IST" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyPagetitle()[pri:0, instance:prasad.TestngPractise@393671df]" started-at="2022-07-28T16:24:56 IST" name="VerifyPagetitle" finished-at="2022-07-28T16:24:56 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPagetitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:prasad.TestngPractise@393671df]" started-at="2022-07-28T16:24:56 IST" name="teardown" finished-at="2022-07-28T16:24:56 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- prasad.TestngPractise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
